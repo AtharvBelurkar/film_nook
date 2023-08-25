@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/film_nook/static/css/main.a85ecdba.css",
+    "main.js": "/film_nook/static/js/main.41811572.js",
+    "index.html": "/film_nook/index.html",
+    "main.a85ecdba.css.map": "/film_nook/static/css/main.a85ecdba.css.map",
+    "main.41811572.js.map": "/film_nook/static/js/main.41811572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.41811572.js"
+  ]
+}
