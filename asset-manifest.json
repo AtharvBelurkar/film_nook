@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/film_nook/static/css/main.a85ecdba.css",
-    "main.js": "/film_nook/static/js/main.96022cce.js",
+    "main.js": "/film_nook/static/js/main.6a248d9f.js",
     "index.html": "/film_nook/index.html",
     "main.a85ecdba.css.map": "/film_nook/static/css/main.a85ecdba.css.map",
-    "main.96022cce.js.map": "/film_nook/static/js/main.96022cce.js.map"
+    "main.6a248d9f.js.map": "/film_nook/static/js/main.6a248d9f.js.map"
   },
   "entrypoints": [
     "static/css/main.a85ecdba.css",
-    "static/js/main.96022cce.js"
+    "static/js/main.6a248d9f.js"
   ]
 }
